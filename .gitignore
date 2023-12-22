@@ -1,0 +1,5 @@
+.DS_Store
+testset/
+__pycache__
+*.tar.gz
+trained_models/
