@@ -1,5 +1,5 @@
 # Twos Complement
-Artifacts Repository for the paper "Two's Complement: Monitoring Control Flow Using Both Power and Electromagnetic Side Channels"
+Artifacts Repository for the paper "Two's Complement: Monitoring Software Control Flow Using Both Power and Electromagnetic Side Channels"
 
 The Multimodal folder contains a notebook for any one out of the three integration approaches that were presented in the paper.
 To prepare the environment to run them:
