@@ -8,7 +8,7 @@ To prepare the environment to run them:
 ```bash
 conda create --name testenv python=3.8.15
 conda activate testenv
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 
