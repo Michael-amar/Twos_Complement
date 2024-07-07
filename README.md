@@ -1,6 +1,7 @@
 # Twos Complement
 Artifact Repository for the paper "Two's Complement: Monitoring Software Control Flow Using Both Power and Electromagnetic Side Channels”, by Michael Amar, Yossi Oren, Lojenaa Navanesan and Asanka Sayakkara, to be presented at the 27th Euromicro Conference on Digital System Design.
 
+# Running the notebooks
 The Multimodal folder contains a notebook for any one out of the three integration approaches that were presented in the paper.
 To prepare the environment to run them:
 
